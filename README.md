@@ -165,9 +165,3 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
 3. **Acceder a la API:**
    - La aplicación estará disponible en: `http://localhost:8080`
 
-
-## **Conclusión**
-
-Este proyecto es una API REST simple para gestionar órdenes utilizando **Spring Boot** y **Docker** para facilitar su despliegue. Las pruebas unitarias garantizan que cada componente funcione correctamente, y el Dockerfile permite empaquetar y ejecutar la aplicación en cualquier entorno compatible con Docker.
-
-Si tienes alguna duda o sugerencia, no dudes en abrir un **Issue** en el repositorio o realizar un **Pull Request**.
